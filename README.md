@@ -13,3 +13,4 @@ Installation
 * Upgrade your Moodle
 * Navigate to Site administration -> Plugins -> Text editors -> Atto HTML editor -> Atto toolbar settings
 * replace any occurrence of the html plugin with htmlplus
+* edit to trigger Travis
